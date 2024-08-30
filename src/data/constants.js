@@ -9,6 +9,7 @@ import chat from '../images/Chatapp.jpg';
 import insta from '../images/insta.png';
 import codeclause from '../images/codeclause.png';
 import bharat from '../images/Bharat.jpeg';
+import git from '../images/git.png';
 export const Bio = {
   name: "Divyambica",
   roles: [
@@ -86,7 +87,7 @@ export const skills = [
     ],
   },
   {
-    title: "Android",
+    title: "Languages",
     skills: [
       {
         name: "Java",
@@ -106,7 +107,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          git,
       },
       {
         name: "GitHub",
@@ -316,7 +317,6 @@ export const projects = [
       insta,
     tags: ["React Js", "Firebase", "Firestore", "Node JS"],
     category: "python",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
     webapp: "https://whatsapp-clone-rishav.web.app",
   },
   // {
